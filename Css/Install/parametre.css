@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 juin 2016, 20:41:11
+    Author     : atbr
+*/
+
+body{
+    height: 100%;
+}
+
+.parametres{
+    width: 20%;
+    height: 60%;
+    float: right;
+    border-radius: 10px;
+    display: none;
+    margin-top: -21px;
+}
+
+.comptes div button{
+    text-align: left;
+    margin: 2px;
+}
+
+.comptes{
+    padding-bottom: 10px;
+}

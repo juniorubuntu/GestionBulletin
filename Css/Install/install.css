@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 juin 2016, 18:03:08
+    Author     : atbr
+*/
+
+.first, .first-start{
+    border: solid 1px green;
+}
+
+.block-first{
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+    
+}
+
+.info-pays{
+    height: 90%;
+    border-bottom: 1px solid;
+}
+.info-region{
+    font-family: cooper;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px #777;
+}
+
+.boutton{
+    padding: 1%;
+}
+
+.previous, .boutton .droite{
+    display: inline-table;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.region-english{
+    border-left: 1px solid;
+}
+
+.info-region-save, .region-english, .region-french{
+    height: 90%;
+}
+
+.form-newuser{
+    position: inherit;
+}
+
+div.frenchSession, body {
+    background-image: url(../..//Ressources/Images/fond-site.jpg);
+}
+
+.bas{
+    padding: 5px;
+}
